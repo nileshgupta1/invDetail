@@ -1,0 +1,43 @@
+TA X  I N V O I C E 
+Invoice #: inv41
+TATA MOTORS LIMITED
+GSTIN 27AAACT2727Q1ZW
+Seeds Lic. No LASD67898369
+Fertilizers Lic. No LASD34564756
+Insecticide Lic. No LAID 26453734
+TATA MOTORS LIMITED  Nigadi Bhosari Road, PIMPRI
+Pune, MAHARASHTRA, 411018
+Bill To:
+TEST
+Test
+Hyderabad, TELANGANA, 500089
+Ph: 9108239284
+test@gmail.comInvoice Date: 18 Jul 2024
+Place of Supply: 36-TELANGANA
+Enquire id: 06-06-2024
+Ship To: Test
+Hyderabad, TELANGANA, 500089
+IMEI NOItem RateQuantity Total Amount
+1 WASTE AND SCRAP OF STAINLESS STEEL
+HSN: 7204219095.006,790 KGS6,45,050.00
+Bank Details:
+Bank:IDBI
+Account #: 1234567890
+IFSC Code: IBKL0000432
+Branch: GACHIBOWLI
+BENEFICIARY NAME : ROMOLIKA SAHANIPay using UPI:
+Total amount (in words):  INR Seven Lakh, Sixty-Eight Thousand, Seven Hundred And
+Seventy-One Rupees Only .Taxable Amount ₹6,45,050.00
+IGST 18.0%₹1,16,109.00
+Round Off 0.41
+TCS @ 1% 206C₹7,611.59
+Total₹7,68,771.00
+Amount Payable: ₹7,68,771.00
+Notes:
+Thankyou for shopping from us. See you again.
+Terms and Conditions:
+GOODS ONCE SOLD CANNOT BE RETURNED. ONLY GOODS THAT ARE DAMAGED CAN BE RETURNED UNDER
+SPECIFIC TERM S& CONDITIONS.
+Receiver's Signature For TATA MOTORS LIMITED
+Authorized Signatory
+Page 1 / 1 This is a digitally signed document
